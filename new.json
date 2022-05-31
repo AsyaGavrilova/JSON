@@ -1,15 +1,8 @@
 
 {
-        "firstName": "Анастасия",
-        "lastName": "Гаврилова",
-        "age": 35,
-        "pets": 0,
-        "desiredSalary": 50000
-}[A[A[A[A[A[A[A[A[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[C
-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[C
+	"firstName": "Анастасия",
+	"lastName": "Гаврилова",
+	"age": 35,
+	"pets": 0,
+	"desiredSalary": 50000
+}
